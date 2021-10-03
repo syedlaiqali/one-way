@@ -1,0 +1,177 @@
+nav{
+    background-color: rgb(37, 32, 68);
+    padding: 10px;
+    top: 0;
+}
+*{
+    margin: 0;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+    
+}
+a:hover{
+    background-color: rgb(17, 122, 167);
+    color: black;
+    padding: 11px;
+}
+.fa-home{
+    margin: 5px;
+}
+.para2{
+    background: url(./girl\ templet656565.jpg);
+    height: 150px;
+    padding: 100px;
+    color: white;
+    box-shadow:0 0 10px black;
+
+
+}
+
+.para2img{
+    height: 150px;
+    border-radius: 40px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    box-shadow: 0 0 10px;
+    color:black;
+
+    
+}
+
+.para2clth{
+ height: 250px;
+ position: absolute;
+ left: 850px;
+ box-shadow:0 0 10px;
+
+
+}
+.para2h1{
+    font-size: 70px;
+    position: absolute;
+    top: 200px;
+
+
+    
+}
+.para2form{
+  padding: 30px;
+  position: absolute;
+  left: 1000px;
+  top: -20px;
+}
+.para2h2{
+    position: absolute;
+    left: 710px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(248, 9, 136);
+} 
+.para3img{
+ width: 450px;
+ height: 300px;
+ position: absolute;
+ left: 10px;
+ box-shadow:0 0 10px;
+}
+
+.para3h2{
+    position: absolute;
+    left: 15px;
+    font-size: 30px;
+}
+.para3imgmen{
+    width: 450px;
+    height: 300px;
+
+    position: absolute;
+    left: 480px;
+    box-shadow:0 0 10px;
+}
+.para3h22{
+    position: absolute;
+    left: 510px;
+    font-size: 30px;
+    top: 640px;
+    color: whitesmoke;
+}
+.para3img4{ 
+    position: absolute;
+    left: 940px;
+    height: 300px;
+    width: 450x;
+    box-shadow:0 0 10px;
+
+}
+.para3h23{
+    position: absolute;
+    left: 960px;
+}
+
+.para4img{
+position: absolute;
+top: 730px;
+left: 10px;
+width: 1330px;
+box-shadow: 0 0 10px;
+
+}
+.para5img{
+    position: absolute;
+    top: 1014px;
+    left: 200px;
+
+}
+
+.para6img{
+    position: absolute;
+    top: 1580px;
+    left: 200px;
+    
+}
+.para7img{
+    position: absolute;
+    top: 1880px;
+    left: 5px;
+    width: 1350px;
+    height: 300px;
+}
+p{ position: absolute;
+    top: 1900px;
+    left: 50px;;
+    color: rgb(255, 254, 254);
+    font-size: 15px;
+   
+}
+.para7p{
+    position: absolute;
+    top: 1900px;
+    left: 500px;;
+    color: rgb(255, 254, 254);
+    font-size: 15px;   
+}
+.para8p{ position: absolute;
+    top: 1900px;
+    left: 900px;;
+    color: rgb(255, 254, 254);
+    font-size: 15px;}
+
+.para9{
+    position: absolute;
+    top: 2100px;
+    left: 400px;;
+    color: rgb(255, 254, 254);
+    font-size: 15px;
+}    
+.para10{
+    position: absolute;
+    top: 2100px;
+    left: 400px;;
+    color: rgb(255, 254, 254);
+    font-size: 15px;
+}

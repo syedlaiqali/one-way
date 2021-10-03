@@ -1,0 +1,37 @@
+
+body{
+    background-image: url(./bulerrr113322.jpg);
+    background-size: cover; background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.khabe2{
+    text-align: center;
+    padding: 30px;
+}
+
+img{
+ width: 300px;
+ height: 300px;
+ box-shadow: 0 0 10px;
+ border-radius: 50px;
+}
+h1{
+ font-size: 70px;
+ color: rgb(243, 236, 245);
+ box-shadow: 10px;
+ border: rgb(15, 20, 15);
+}
+
+
+a{font-size: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px;
+  background-color: rgb(5, 90, 5);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(218, 210, 203);
+  text-decoration: none;
+
+}
+    
+

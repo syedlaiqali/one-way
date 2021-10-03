@@ -1,0 +1,45 @@
+body{ background-image: url(./onewayshoing00011.jpg);
+
+}
+.form-cont{
+    background-color: rgba(13, 13, 63, 0.4);
+    box-shadow: 0 0 10px;
+    width: 300px;
+    height: 400px;
+    padding: 15px;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 50px;
+    position: absolute;
+    left: 800px;
+}
+img{
+    height: 150px;
+    position: absolute;
+    left: 890px;
+    top: 415px;
+
+    border-radius: 30px;
+}
+input{
+    margin: 10px;
+    font-size: 17px;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    border-radius: 0 10px;
+    background-color: rgb(6, 20, 51);
+}
+::placeholder{
+    color: rgb(4, 34, 75);
+}
+.h123{color: aliceblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+a{ text-decoration: none;
+color: aliceblue;}
